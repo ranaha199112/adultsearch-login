@@ -40,7 +40,7 @@ const submitValues = {
          {/* logo  */}
         <div>
           <a href="#" className="flex justify-center items-center py-3 px-2 ">
-           <img src='/brandlogo.svg' width={150} height={33} />
+           <img src='/images/brandlogo.svg' width={150} height={33} />
           </a>
         </div>
 
@@ -181,7 +181,7 @@ const submitValues = {
       <div className=" md:block hidden ">
         <p className='m-5'>Adult Search gives you the ability to connect with adult businesses around the 
         <br/>world.</p>
-        <img src="/map1.png" className="rounded-2xl" alt="page img"/>
+        <img src="/images/map1.png" className="rounded-2xl" alt="page img"/>
       </div>
 
     </div>
